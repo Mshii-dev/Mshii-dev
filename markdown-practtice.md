@@ -4,8 +4,8 @@
 My **goal** this semester is to understand *programming* and how `github` work
 
 ###link
--[[my github profile](https://github.com/Mshii-dev)]
--[[freecodecamp](https://www.freecodecamp.org)]
+-[my github profile][(https://github.com/Mshii-dev)]
+-[freecodecamp][(https://www.freecodecamp.org)]
 ---
 
 ###unordered list of things i want to learn 
@@ -46,6 +46,6 @@ print("hello, world!")
 >be our on master.
 ---
 
-** About me**
-am currently learning `programming` *,~~mainly~~ focusing on >python and java script language*
+###** About me**
+>am currently learning `programming` *,~~mainly~~ focusing on python and java script language*
 
