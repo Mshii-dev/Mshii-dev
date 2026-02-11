@@ -3,24 +3,24 @@
 
 My **goal** this semester is to understand *programming* and how `github` work
 
-###link
+### Link
 -[my github profile][(https://github.com/Mshii-dev)]
 -[freecodecamp][(https://www.freecodecamp.org)]
 ---
 
-###unordered list of things i want to learn 
+### Unordered list of things i want to learn 
 -web development
 -python programming 
 -java script
 ---
 
-###step to make a commit in git
+### Step to make a commit in git
 -edit or creat file
 -write a commit message
 -click and commit changes
 ---
 
-### table i use or want to learn
+### Table i use or want to learn
 
 |tool       |  purpose        | link                  |
 |---------- |  -------------  |-------------------    |
@@ -28,24 +28,24 @@ My **goal** this semester is to understand *programming* and how `github` work
 | github    | version control | https://github.com    |
 ---
 
-###learning task 
+### Learning task 
 [x] created a github account and a repo 
 [x] created a readme.md
 [ ] learn to code and markdown
 [ ]learn python or java script
 ---
 
-### code block
+### Code block
 ```python
 `hello' world!`
 print("hello, world!")
 ```
 ---
 
-###blockquote
+### Blockquote
 >be our on master.
 ---
 
-###** About me**
+### ** About me**
 >am currently learning `programming` *,~~mainly~~ focusing on python and java script language*
 
