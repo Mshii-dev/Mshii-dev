@@ -4,8 +4,8 @@
 My **goal** this semester is to understand *programming* and how `github` work
 
 ###link
--[my github profile](https://github.com/Mshii-dev)
--[freecodecamp](https://www.freecodecamp.org)
+-[[my github profile](https://github.com/Mshii-dev)]
+-[[freecodecamp](https://www.freecodecamp.org)]
 ---
 
 ###unordered list of things i want to learn 
@@ -21,6 +21,7 @@ My **goal** this semester is to understand *programming* and how `github` work
 ---
 
 ### table i use or want to learn
+
 |tool       |  purpose        | link                  |
 |---------- |  -------------  |-------------------    |
 | python    | programming     | https://ww.python.org |
