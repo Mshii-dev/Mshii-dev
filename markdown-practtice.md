@@ -1,45 +1,49 @@
 ## My learning goal
 ### this semester
 
-### text formatting
-`My **goal** this semester is to understand *programming* `
+My **goal** this semester is to understand *programming* and how `github` work
 
 ###link
-[link text](https://github.com/Mshii-dev)
-[link text](
-
-###list
+-[my github profile](https://github.com/Mshii-dev)
+-[freecodecamp](
+---
 ###unordered list of things i want to learn 
--programming
--python
-- java script
-- 
+-web development
+-python programming 
+-java script
+---
+
 ###step to make a commit in git
--check the status of your file
--stage the changes
--commit the staged changes
+-edit or creat file
+-write a commit message
+-click and commit changes
+---
 
-### table
-|tool       |  purpose        | link      |
-|---------- |  -------------  |---------- |
-| python    |                 |           |
-| java      |                 |           |
+### table i use or want to learn
+|tool       |  purpose        | link                  |
+|---------- |  -------------  |-------------------    |
+| python    | programming     | https://ww.python.org |
+| github    | version control | https://github.com    |
+---
 
-###task list
+###learning task 
 [x] created a github account and a repo 
 [x] created a readme.md
-[ ] learn to code
+[ ] learn to code and markdown
 [ ]learn python or java script
+---
 
 ### code block
 ```python
+`hello' world!`
 print("hello, world!")
 ```
+---
+
 ###blockquote
 >be our on master.
-
+---
 
 ** About me**
 am currently learning `programming` *,~~mainly~~ focusing on >python and java script language*
 
-add markdown practice exercises
