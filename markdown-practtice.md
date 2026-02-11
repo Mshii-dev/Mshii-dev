@@ -5,8 +5,9 @@ My **goal** this semester is to understand *programming* and how `github` work
 
 ###link
 -[my github profile](https://github.com/Mshii-dev)
--[freecodecamp](
+-[freecodecamp](https://www.freecodecamp.org)
 ---
+
 ###unordered list of things i want to learn 
 -web development
 -python programming 
