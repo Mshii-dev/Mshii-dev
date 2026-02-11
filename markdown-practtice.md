@@ -4,20 +4,20 @@
 My **goal** this semester is to understand *programming* and how `github` work
 
 ### Link
--[my github profile][(https://github.com/Mshii-dev)]
--[freecodecamp][(https://www.freecodecamp.org)]
+- [my github profile][(https://github.com/Mshii-dev)]
+- [freecodecamp][(https://www.freecodecamp.org)]
 ---
 
 ### Unordered list of things i want to learn 
--web development
--python programming 
--java script
+- web development
+- python programming 
+- java script
 ---
 
 ### Step to make a commit in git
--edit or creat file
--write a commit message
--click and commit changes
+- edit or creat file
+- write a commit message
+- click and commit changes
 ---
 
 ### Table i use or want to learn
@@ -29,10 +29,10 @@ My **goal** this semester is to understand *programming* and how `github` work
 ---
 
 ### Learning task 
-[x] created a github account and a repo 
-[x] created a readme.md
-[ ] learn to code and markdown
-[ ]learn python or java script
+- [x] created a github account and a repo 
+- [x] created a readme.md
+- [ ] learn to code and markdown
+- [ ]learn python or java script
 ---
 
 ### Code block
@@ -46,6 +46,6 @@ print("hello, world!")
 >be our on master.
 ---
 
-### ** About me**
+### **About me**
 >am currently learning `programming` *,~~mainly~~ focusing on python and java script language*
 
