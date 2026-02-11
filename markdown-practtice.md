@@ -1,5 +1,5 @@
 ## My learning goal
-### this semester
+### This semester
 
 My **goal** this semester is to understand *programming* and how `github` work
 
@@ -32,7 +32,7 @@ My **goal** this semester is to understand *programming* and how `github` work
 - [x] created a github account and a repo 
 - [x] created a readme.md
 - [ ] learn to code and markdown
-- [ ]learn python or java script
+- [ ] learn python or java script
 ---
 
 ### Code block
